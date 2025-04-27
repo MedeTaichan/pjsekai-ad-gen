@@ -29,5 +29,5 @@
 このプログラムには「名無し。(@sevenc-nanashi)」さんの「pjsekai-background-gen-rust」を使用しています。  
 https://github.com/sevenc-nanashi/pjsekai-background-gen-rust  
 
-pjsekai_ad_gen：  
+pjsekai-ad-gen：  
 https://github.com/Hallkun19/pjsekai-ad-gen
