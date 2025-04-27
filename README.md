@@ -11,6 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/MedeTaichan/pjsekai-ad-gen/blob/main/pjsekai_ad_gen.ipynb)
 
 出てきたページの手順に従って実行してください。  
+※実行するにはGoogleアカウントへのログインが必要です
 
 はるくんさんの文章をそのまま載せます：  
 一応言っておきますがこれはマルウェアではないですからね！！！！！！！心に誓いますよ！！！
