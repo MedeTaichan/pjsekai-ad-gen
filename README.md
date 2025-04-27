@@ -26,6 +26,9 @@
 >ちなみに生成した画像を公序良俗に反するような利用は絶対に許しませんからね  
 >あなたの家に爆速でインターホン鳴らしに行きますからね  
 
+## ついでに言いたいこと
+このプログラムから生成したものとWindowsでフォーク元のはるくんさんのもので生成したものでは少し文字のバランスが違う場合があります、ご了承ください
+
 ## クレジット
 このプログラムには「名無し。(@sevenc-nanashi)」さんの「pjsekai-background-gen-rust」を使用しています。  
 https://github.com/sevenc-nanashi/pjsekai-background-gen-rust  
